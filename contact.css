@@ -13,8 +13,8 @@ div{
     width: 400px;
 }
 h2{
-    color: white;
-    text-shadow:4px 4px 4px gray;
+    color: black;
+    text-shadow:4px 4px 4px green;
 }
 h1{
     
@@ -68,3 +68,4 @@ p{
     }
 
 }
+
